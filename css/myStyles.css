@@ -1,0 +1,46 @@
+	<style>
+	.img-circle {
+    border-radius: 80%;
+	  max-width:20%;
+	max-height:50%;
+	}
+	
+	#phone {
+	max-width: 500px;
+    width: 40%;
+	height:70%;
+	display: block;
+    margin: 0 auto;
+	border:0;
+	}
+	.img-thumbnail {
+	
+	height: 70%;
+    width: 40%;
+    background: none;
+	display: block;
+    margin: 0 auto;
+	border:0;
+	}
+	
+	#dp {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; 
+	}
+	
+	#conttwo {
+	text-align: center;
+	color:#2c3e50!important;
+	}
+	#contthree {
+	text-align: center;
+	margin-top:2 cm;
+	color:#2c3e50!important;
+	}
+	
+	#centered-text {
+    text-align:center
+	} 
+	
+	</style>
